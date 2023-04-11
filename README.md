@@ -10,7 +10,7 @@
 
 ## 小鹤五笔音形输入法-对侧飞键版
 
-### 简单介绍
+### 简单介绍（introduce）：
 
   音形简码、小鹤五笔zh/ch/sh对侧击键飞键版，击键当量优于五笔。
 
@@ -20,7 +20,7 @@
 
   现：XG 实：UP 仅：JW 字：ZP 及：JE 种：OT 任：RW 妹：MV 为：WY 和：HT 网：WM 子：ZB 阿：AB 时：UJ
 
-### 飞键映射：
+### 飞键映射（map）：
 
   /shi-us/
 
@@ -32,7 +32,7 @@
 
   /eng-am/ei-ew/
 
-### 如何使用该输入法
+### 如何使用该输入法(install)
 
   *下载[Rime-小狼毫](https://github.com/rime/squirrel/releases)，安装后右键点击【ㄓ】进入用户文件夹，将该方案置入小狼豪用户文件夹内。
 
