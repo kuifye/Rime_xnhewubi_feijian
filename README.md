@@ -44,7 +44,7 @@
   
   # 击键当量(value):
   
-![image](https://user-images.githubusercontent.com/49089769/231256620-b31b2094-3875-49dc-bdc0-54c26da07401.png)
+![image](https://user-images.githubusercontent.com/49089769/231258004-437d7475-aa7b-41fa-9b18-55ed12058848.png)
 
 ![image](https://user-images.githubusercontent.com/49089769/231257600-4157aaef-848b-4b0a-bcae-f32233811024.png)
 
