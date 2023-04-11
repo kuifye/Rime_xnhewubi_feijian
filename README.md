@@ -19,6 +19,8 @@
   需要特殊记忆的编码如下：
 
   现：xg 实：up 仅：jw 字：zp 及：je 种：ot 任：rw 妹：mv 为：wy 和：ht 网：wm 子：zb 阿：ab 时：uj
+  
+  ![image](https://user-images.githubusercontent.com/49089769/231256157-c7efe561-3c4d-4b42-bdc2-cff3624e4203.png)
 
 ### 飞键映射（map）：
 
