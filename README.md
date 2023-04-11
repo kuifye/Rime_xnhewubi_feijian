@@ -58,9 +58,9 @@
 
 ### 如何使用该输入法(install):
 
-![image](https://user-images.githubusercontent.com/49089769/231263797-801e79b0-7b3c-45e2-91eb-1d2d60a750c7.png)
-
   *下载[Rime-小狼毫](https://github.com/rime/squirrel/releases)，安装后右键点击【ㄓ】进入用户文件夹，将该方案置入小狼豪用户文件夹内。
+  
+  ![image](https://user-images.githubusercontent.com/49089769/231263797-801e79b0-7b3c-45e2-91eb-1d2d60a750c7.png)
 
   右击【ㄓ】选择输入法设定，勾选该方案，即可使用。
 
