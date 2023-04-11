@@ -15,6 +15,9 @@ ob~提示	obhelp	19
 任-rw	obhelp	12
 物-wt	obhelp	12
 網-wm	obhelp	12
+妹-mv	obhelp	12
+時-uj	obhelp	12
+和-ht	obhelp	12
 飞键映射：	obhelp	8
 shi-us/左韵母zh-o	obhelp	7
 右韵母sh-a/右韵母ch-e	obhelp	6
@@ -156,9 +159,11 @@ $	obmy	10
 
 #部分簡詞
 
+妹	mv	9
 時	uj	9
 阿	ab	9
 實	up	9
+和	ht	9
 子	zb	9
 為	wy	9
 及	je	9
@@ -474,7 +479,6 @@ $	obmy	10
 或	ho	9
 換	hr	9
 紅	hs	9
-和	ht	9
 戶	hu	9
 會	hv	9
 黑	hw	9
