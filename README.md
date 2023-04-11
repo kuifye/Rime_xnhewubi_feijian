@@ -42,7 +42,7 @@
 
   输入 ob 呼出五笔及拆字模式（例：oblslsls = 龘），obhelp 呼出飞键提示，obinfo呼出更多信息。
   
-  ### 击键当量(value):
+  # 击键当量(value):
   
 ![image](https://user-images.githubusercontent.com/49089769/231256620-b31b2094-3875-49dc-bdc0-54c26da07401.png)
 
