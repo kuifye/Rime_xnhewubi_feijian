@@ -68,5 +68,9 @@
 
   输入 ob 呼出五笔及拆字模式（例：oblslsls = 龘），obhelp 呼出飞键提示，obinfo呼出更多信息。
   
+  ![image](https://user-images.githubusercontent.com/49089769/231264279-6783625f-6f1c-4cdd-9ddc-a4b6560d5875.png)
+*五笔
+  
   ![image](https://user-images.githubusercontent.com/49089769/231264140-bb00a0f3-6c96-4b9c-8294-ac5850fce443.png)
+*拆字
 
