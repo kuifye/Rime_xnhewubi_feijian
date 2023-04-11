@@ -2461,6 +2461,7 @@
 朝	obvoyt
 朝	obieyt
 鼌	obdjmb
+鼌	obdjkzdm
 鄛	obicyi
 鄛	obicer
 漅	obuvic
@@ -16077,6 +16078,7 @@
 𡕩	obxbervi
 渑	obuvmb
 渑	obuvmb
+渑	obuvkzdm
 喕	obkzmm
 湎	obuvmm
 湎	obuvmm
@@ -21142,6 +21144,7 @@
 鼪	obauug
 鵿	obnnug
 绳	obsimb
+绳	obsikzdm
 绳	obsimb
 澠	obuvmm
 澠	obuvmm
@@ -23713,6 +23716,7 @@
 鼧	obauta
 騨	obmadjdm
 鼍	obkzkztmhgmb
+鼍	obkzkztmhgkzdm
 鼍	obeudm
 驒	obmadj
 鼉	obkzkztmhgmm
@@ -29456,6 +29460,7 @@
 笎	obvuyr
 厡	obehqr
 鼋	obyrmb
+鼋	obyrkzdm
 援	obuzyr
 援	obuzyr
 援	obcdyr

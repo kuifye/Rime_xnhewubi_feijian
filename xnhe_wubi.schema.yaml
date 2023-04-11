@@ -71,6 +71,8 @@ speller:
     - derive/^(..[[].).$/$1/
     - derive/^(..[[]).$/$1/
     - derive/^(..[[]..).(.)$/$1$2/
+    - derive/^(..[[].)..(.)$/$1$2/
+    - derive/^(..[[])....$/$1/
 #去除引导码、分号分词
     - xform/[[]//
     - xform/;//
@@ -113,6 +115,7 @@ reverse_lookup_xnhe_wubi:      #小鹤五笔编码反查滤镜
     - xform/[[]//
     - xform/^([a-z][a-z][a-z][a-z])[a-z]([a-z])/$1$2/
     - xform/^([a-z][a-z])([a-z]+)/$1·$2/
+    - xform/.+?(「.+?·固顶」)/$1/
 
 reverse_lookup:                  #五笔86反查翻译器
   dictionary: wubi86             #用于反查编码的另一种输入法词库名称
