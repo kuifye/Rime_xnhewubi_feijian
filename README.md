@@ -10,7 +10,7 @@
 
 现：XG 实：UP 仅：JW 字：ZP 及：JE 种：OT 任：RW 妹：MV 为：WY 和：HT 网：WM 子：ZB 阿：AB 时：UJ
 
-飞键映射：
+###飞键映射：
 
 /shi-us/
 
@@ -22,7 +22,7 @@
 
 /eng-am/ei-ew/
 
-# 如何使用该输入法
+### 如何使用该输入法
 
 下载[Rime-小狼毫](https://github.com/rime/squirrel/releases)，安装后右键点击【ㄓ】进入用户文件夹，将该方案置入小狼豪用户文件夹内。
 
