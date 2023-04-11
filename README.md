@@ -34,10 +34,10 @@
 
 ### 如何使用该输入法
 
-下载[Rime-小狼毫](https://github.com/rime/squirrel/releases)，安装后右键点击【ㄓ】进入用户文件夹，将该方案置入小狼豪用户文件夹内。
+*下载[Rime-小狼毫](https://github.com/rime/squirrel/releases)，安装后右键点击【ㄓ】进入用户文件夹，将该方案置入小狼豪用户文件夹内。
 
 右击【ㄓ】选择输入法设定，勾选该方案，即可使用。
 
 默认为简体，通过快捷键 Control+ J 切换繁简。
 
-输入 ob 呼出五笔和拼字反查，obhelp 呼出飞键提示，obinfo呼出更多信息。
+输入 ob 呼出五笔及拆字模式（例：oblslsls = 龘），obhelp 呼出飞键提示，obinfo呼出更多信息。
