@@ -16,9 +16,9 @@
   
   对侧击键率52%、码长2.10。
 
-  需要特殊记忆的编码如下
+  需要特殊记忆的编码如下：
 
-  现：XG 实：UP 仅：JW 字：ZP 及：JE 种：OT 任：RW 妹：MV 为：WY 和：HT 网：WM 子：ZB 阿：AB 时：UJ
+  现：xg 实：up 仅：jw 字：zp 及：je 种：ot 任：rw 妹：mv 为：wy 和：ht 网：wm 子：zb 阿：ab 时：uj
 
 ### 飞键映射（map）：
 
