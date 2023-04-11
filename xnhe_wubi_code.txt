@@ -241,6 +241,7 @@ $	obmy	10
 百度	bddu	11
 誌	viyn	11
 華	hxwf	11
+踩	cdkh	11
 
 #注音
 
@@ -5526,8 +5527,8 @@ $	obmy	10
 映	ykjd	15428
 伟	wwwn	15340
 偉	wwwn	15340
-饭	fjqr	15217
-飯	fjqr	15217
+饭	fjqn	15217
+飯	fjqn	15217
 右	yzdk	15208
 沿	yjik	15099
 玉	yugy	14703
