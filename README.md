@@ -32,7 +32,7 @@
 
   /eng-am/ei-ew/
 
-### 如何使用该输入法(install)
+### 如何使用该输入法(install):
 
   *下载[Rime-小狼毫](https://github.com/rime/squirrel/releases)，安装后右键点击【ㄓ】进入用户文件夹，将该方案置入小狼豪用户文件夹内。
 
@@ -41,6 +41,8 @@
   默认为简体，通过快捷键 Control+ J 切换繁简。
 
   输入 ob 呼出五笔及拆字模式（例：oblslsls = 龘），obhelp 呼出飞键提示，obinfo呼出更多信息。
+  
+  ### 击键当量(value):
   
 ![image](https://user-images.githubusercontent.com/49089769/231256620-b31b2094-3875-49dc-bdc0-54c26da07401.png)
 
