@@ -48,5 +48,5 @@
 
 ![image](https://user-images.githubusercontent.com/49089769/231257600-4157aaef-848b-4b0a-bcae-f32233811024.png)
 
-*赛码器的一个算法会导致逗号不被按下，出被算入按键编码
+*赛码器的一个算法会导致逗号不被按下，而被算入按键编码
 
