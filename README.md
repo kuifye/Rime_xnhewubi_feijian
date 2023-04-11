@@ -10,7 +10,7 @@
 
 现：XG 实：UP 仅：JW 字：ZP 及：JE 种：OT 任：RW 妹：MV 为：WY 和：HT 网：WM 子：ZB 阿：AB 时：UJ
 
-###飞键映射：
+### 飞键映射：
 
 /shi-us/
 
