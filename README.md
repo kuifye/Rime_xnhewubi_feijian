@@ -12,7 +12,7 @@
 
 ### 简单介绍（introduce）：
 
-  小鹤音码配合五笔形码辅助码、小鹤五笔zh/ch/sh对侧击键飞键版，击键当量优于五笔。
+  小鹤音码配合五笔形码辅助码、小鹤五笔zh/ch/sh对侧击键飞键版，击键当量接近五笔，优于小鹤音形。
   
   对侧击键率52%、码长2.10。
 
@@ -45,4 +45,8 @@
   # 击键当量(value):
   
 ![image](https://user-images.githubusercontent.com/49089769/231256620-b31b2094-3875-49dc-bdc0-54c26da07401.png)
+
+![image](https://user-images.githubusercontent.com/49089769/231257600-4157aaef-848b-4b0a-bcae-f32233811024.png)
+
+*赛码器的一个算法会导致逗号不被按下，出被算入按键编码
 
