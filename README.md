@@ -44,6 +44,8 @@
   
 ![image](https://user-images.githubusercontent.com/49089769/231258004-437d7475-aa7b-41fa-9b18-55ed12058848.png)
 
+![image](https://user-images.githubusercontent.com/49089769/231267199-d955b5b9-0b21-4b30-9a21-3d6d6d464b49.png)
+
 ![image](https://user-images.githubusercontent.com/49089769/231257600-4157aaef-848b-4b0a-bcae-f32233811024.png)
 
 ### 关于热力图(hot-map):
@@ -55,6 +57,8 @@
 *部分一简码（如花，编码为h;）使用分号选重，会导致重码率偏高，而分号按键当量偏低。
 
 *音码码表和形码码表不同，赛码器内各项显示数值会偏高。
+
+*测试优化仅仅是同时添加了繁简词库并去除了多余的标点，没有做额外的改动。
 
 ### 如何使用该输入法(install):
 
