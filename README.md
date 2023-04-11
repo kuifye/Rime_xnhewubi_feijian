@@ -67,3 +67,6 @@
   默认为简体，通过快捷键 Control+ J 切换繁简。
 
   输入 ob 呼出五笔及拆字模式（例：oblslsls = 龘），obhelp 呼出飞键提示，obinfo呼出更多信息。
+  
+  ![image](https://user-images.githubusercontent.com/49089769/231264140-bb00a0f3-6c96-4b9c-8294-ac5850fce443.png)
+
