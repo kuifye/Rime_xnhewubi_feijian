@@ -22,7 +22,7 @@
 
 ### 飞键映射（map）：
 
-  /shi-us/
+  /shi-us/feng-fs/
 
   /左韵母zh-o/右韵母sh-a/右韵母ch-e/
 
