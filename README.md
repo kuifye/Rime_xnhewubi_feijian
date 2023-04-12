@@ -22,7 +22,7 @@
 
 ### 飞键映射（map）：
 
-  /shi-us/feng-fs/
+  /shi-us/feng-fs/  (增加s按键频率)
 
   /右韵母zh-v/左韵母sh-u/左韵母ch-i/  (同原版小鹤一致)
   
