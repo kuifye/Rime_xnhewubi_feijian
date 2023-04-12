@@ -24,9 +24,9 @@
 
   /shi-us/feng-fs/
 
-  /左韵母zh-o/右韵母sh-a/右韵母ch-e/
-
-  /右韵母zh-v/左韵母sh-u/左韵母ch-i/
+  /右韵母zh-v/左韵母sh-u/左韵母ch-i/  (同原版小鹤一致)
+  
+   /左韵母zh-o/右韵母sh-a/右韵母ch-e/  (对侧映射)
 
   /ang-am/ao-ac/
 
