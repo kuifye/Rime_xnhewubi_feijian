@@ -23,14 +23,14 @@
 ### 飞键映射（map）：
 
   /shi-us/feng-fs/  (增加s按键频率)
+  
+  /ang-am/ao-ac/
+
+  /eng-am/ei-ew/
 
   /右韵母zh-v/左韵母sh-u/左韵母ch-i/  (同原版小鹤一致)
   
    /左韵母zh-o/右韵母sh-a/右韵母ch-e/  (对侧映射)
-
-  /ang-am/ao-ac/
-
-  /eng-am/ei-ew/
   
 ### 特点:
 
