@@ -22,7 +22,7 @@ ob~提示	obhelp	19
 shi-us/左韵母zh-o	obhelp	7
 右韵母sh-a/右韵母ch-e	obhelp	6
 ,等义y	obhelp	5
-jf上屏逗号---	obhelp
+fg上屏逗号---	obhelp
 歡迎使用😎	obhelp
 ob~info	obinfo	10
 小鹤五笔2.0飞键版本	obinfo	9
@@ -33,10 +33,11 @@ date:2023年4月11日	obinfo	7
 
 #-------------------------常用標點
 
-，	jf	10
+“	jf	10
 ：“	jg	10
-“	jh	10
+，“	jh	10
 ”	jj	10
+，	fg	10
 
 #o及v符號
 
@@ -159,6 +160,7 @@ $	obmy	10
 
 #部分簡詞
 
+物	wt	9
 妹	mv	9
 時	uj	9
 阿	ab	9
@@ -4304,6 +4306,7 @@ $	obmy	10
 湛	vji	9
 斬	vjl	9
 嶄	vjm	9
+粘	vjo	9
 展	vjn	9
 詹	vjq	9
 搌	vjr	9
@@ -6956,6 +6959,7 @@ $	obmy	10
 蒞	liaf	100
 醛	qrsg	100
 唆	sokw	100
+臭	iztd	9
 的	dery
 年	nmrf
 大	dadd
@@ -7439,7 +7443,6 @@ $	obmy	10
 沫	mois
 喂	wwke
 悔	hvnu
-臭	iztd
 禹	yuty
 俞	yuwj
 翅	eifn
@@ -15987,11 +15990,10 @@ $	obmy	10
 蟲群	isqy	9
 抽調	iztn	9
 抽開	izkd	9
-抽苔	iztd	9
 仇恨	izhf	9
 愁悶	izmf	9
 躊躇	izeu	9
-醜態	iztd	9
+醜態	iztd	7
 醜鮠	izww	9
 醜星	izxk	9
 臭味	izww	10
@@ -16301,7 +16303,7 @@ $	obmy	10
 道盔	dckv	9
 道歉	dcqm	10
 得了	dele	10
-得以	deyi	9
+得意	deyi	9
 得知	devi	9
 德潤	dery	9
 地板	dibj	9
@@ -18368,7 +18370,7 @@ $	obmy	10
 老茶	lcia	9
 老大	lcda	10
 老哥	lcge	9
-老化	lchx	9
+老話	lchx	9
 老媽	lcma	9
 老馬	lcma	10
 老胖	lcph	9
@@ -18408,7 +18410,7 @@ $	obmy	10
 淚痣	lwvi	9
 類人	lwrf	10
 類似	lwsi	9
-棱鏡	lgjk	10
+冷静	lgjk	10
 冷梅	lgmw	9
 冷門	lgmf	10
 離開	likd	10
@@ -21889,7 +21891,6 @@ $	obmy	10
 樂凱	ytkd	9
 樂青	leqk	9
 樂翁	ytwg	9
-嶽各	ytge	9
 躍然	ytrj	9
 躍然	tirj	9
 暈倒	yydc	9
