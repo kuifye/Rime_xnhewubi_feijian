@@ -239,6 +239,7 @@ $	obmy	10
 唯一	wyi	9
 女人	nvr	9
 男人	njr	7
+符合	fuhe	10
 抛出	pceu	10
 百度	bddu	11
 誌	viyn	11
@@ -350,7 +351,7 @@ $	obmy	10
 這	o	9
 着	o	8
 平	p	9
-苹	p	8
+蘋	p	8
 去	q	9
 七	q	8
 人	r	9
@@ -23091,6 +23092,7 @@ $	obmy	10
 這麼	om	7
 而且	eq	7
 飛船	fi	7
+非常	fi	6
 其他	qt	7
 最後	zh	7
 的愛	da	7

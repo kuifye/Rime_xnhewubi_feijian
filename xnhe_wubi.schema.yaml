@@ -54,7 +54,7 @@ engine:
     - reverse_lookup_translator                #五笔86反查翻译器
     - table_translator@xnhe_wubi_num           #小鹤序数翻译器
     - script_translator                        #小鹤字词主翻译器
-    - script_translator@luna_pinyin            #luna_pinyin字典的小鹤双拼翻译器
+    # - script_translator@luna_pinyin            #luna_pinyin字典的小鹤双拼翻译器
   filters:
     - simplifier
     - simplifier@simplification
@@ -80,7 +80,7 @@ speller:
 # #降低y压力（如需使用：需要在alphabet中添加逗号）
 #     - derive/y/,/
 #超级简拼-容易卡
-    # - abbrev/^(.).+$/$1/
+    - abbrev/^(.).+$/$1/
 
 key_binder:
   import_preset: default
