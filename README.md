@@ -1,4 +1,4 @@
-# xnhewubi_feijian_2.0
+# xnhewubi_feijian
 
 *rime-feijian
 
